@@ -42,6 +42,9 @@
             &--is-open {
                 .faq__questions__item__question::after {
                     content :'-';
+                    font-size: 60px;
+                    
+                    
 
                 }
                 .faq__questions__item__answer {
